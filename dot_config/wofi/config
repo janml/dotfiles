@@ -1,0 +1,8 @@
+mode = drun
+normal_window = false
+insensitive = true
+hide_scroll = true
+lines = 20
+width = 50%
+allow_images = false
+
