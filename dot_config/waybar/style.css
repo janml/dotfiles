@@ -1,0 +1,32 @@
+#waybar {
+	background-color: transparent;
+}
+
+#workspaces button.focused {
+	background: transparent;
+	border-bottom: 2px solid white;
+}
+
+#battery {
+	padding: 0px 5px 0px 5px;
+}
+
+#battery:hover {
+	background: rgba(0, 0, 0, 0.2);
+}
+
+#clock {
+	padding: 0px 5px 0px 5px;
+}
+
+#clock:hover {
+	background: rgba(0, 0, 0, 0.2);
+}
+
+#tray {
+	padding: 0px 5px 0px 5px;
+}
+
+#tray:hover {
+	background: rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,24 @@
+{
+	"position": "bottom",
+	"height": 30,
+	
+	"modules-left": [
+        	"sway/workspaces"
+	],
+
+	"modules-right": [
+		"battery",
+		"clock",
+		"tray"
+	],
+
+	"battery": {
+		"format": "{icon} {capacity}%",
+		"format-icons": ["", "", "", "", ""]
+	},
+
+	"clock": {
+		"format": "{:%Y-%m-%d %H:%M}"
+	}
+
+}
