@@ -1,2 +1,2 @@
 # Dotfiles
-My dotfiles managed with [Chezmoi](https://www.chezmoi.io/).
+My dotfiles managed with [chezmoi](https://www.chezmoi.io/).
